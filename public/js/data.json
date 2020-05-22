@@ -1,0 +1,29 @@
+[
+    {
+        "id": "0",
+        "name": "Эба Темпура",
+        "price": 89,
+        "quantity": 0,
+        "image": "uploads/product1.png",
+        "ingredients":"Креветка Тигровая в темпуре, японский майонез, Икра масага, огурец",
+        "weight":210 
+    },
+    {
+        "id": "1",
+        "name": "Филадельфия",
+        "price": 99,
+        "quantity": 0,
+        "image": "uploads/product1.png",
+        "ingredients":"Креветка Тигровая в темпуре, японский майонез, Икра масага, огурец",
+        "weight":200 
+    },
+    {
+        "id": "2",
+        "name": "Калифорния",
+        "price": 109,
+        "quantity": 0,
+        "image": "uploads/product1.png",
+        "ingredients":"Креветка Тигровая в темпуре, японский майонез, Икра масага, огурец",
+        "weight":300 
+    }
+]
